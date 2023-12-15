@@ -1,0 +1,15 @@
+{
+  "dependencies": {
+    "moment": "^2.29.4",
+    "mongodb": "^6.3.0"
+  },
+  "name": "merge_data",
+  "version": "1.0.0",
+  "main": "add_balance.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
